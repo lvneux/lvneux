@@ -40,8 +40,8 @@
 🏆 Awards
 </p>
 <p align='center'>
-<b>2023.08</b> Dong-A univ Devday SW Development track 장려상</br>
-<b>2024.08</b> National University Software Performance Sharing Forum 기술상, 인기상</br>
-<b>2024.09</b> ICT Digital New Technology Idea Contest 우수상</br>
-<b>2024.11</b> Dong-A univ SW Innovation Week Devday 최우수상</br>
+<b>2023.08</b> Dong-A univ. Devday SW개발 track 장려상</br>
+<b>2024.08</b> 전국대학 소프트웨어 성과공유 포럼 기술상, 인기상</br>
+<b>2024.09</b> ICT 디지털 신기술 아이디어 공모전 우수상</br>
+<b>2024.11</b> Dong-A univ. SW Innovation Week Devday 최우수상</br>
 </p>
