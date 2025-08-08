@@ -45,4 +45,5 @@
 <b>2024.09</b> ICT 디지털 신기술 아이디어 공모전 우수상</br>
 <b>2024.11</b> Dong-A univ. SW Innovation Week Devday 최우수상</br>
 <b>2025.04</b> 한국ITS 학회 춘계학술대회 학부생 논문 경진대회 우수논문상 장려상</br>
+<b>2025.08</b> SZU-DAU AI Summer Camp 2등</br>
 </p>
